@@ -13,7 +13,7 @@ OuterStrokeColor=236;;1;;251;;200
 #The starting color (RGBA) of the fill gradient.
 FillStartColor=39;;0;;55;;300
 #The ending color (RGBA) of the fill gradient.
-FillEndColor=82;;234;;177;;300
+FillEndColor=14;;0;;35;;100
 #The color (RGBA) of the inner stroke.
 InnerStrokeColor=236;;1;;251;;300
 
